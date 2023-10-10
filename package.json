@@ -1,7 +1,7 @@
 {
-  "name": "HBWABot Mizo",
+  "name": "Nozy's Bot",
   "version": "3.0.0",
-  "description": "Automated whatsapp bot hi nodejs and baileys lib hmanga siam a ni",
+  "description": "WhatsApp bot",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
